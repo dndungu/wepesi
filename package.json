@@ -1,0 +1,28 @@
+{
+  "name": "wepesi",
+  "version": "0.0.1",
+  "description": "A restful content repository based on nodejs, mongod and git.",
+  "main": "index.js",
+  "dependencies": {
+	"mongodb" : ">= 1.0.2",
+    "wepesi-repository": ">= 0.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dnjuguna/wepesi.git"
+  },
+  "keywords": [
+    "api",
+    "mongodb",
+    "http",
+    "basic",
+    "auth"
+  ],
+  "author": "David Njuguna",
+  "license": "MIT"
+}
