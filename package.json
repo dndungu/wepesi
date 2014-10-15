@@ -1,7 +1,7 @@
 {
   "name": "wepesi",
-  "version": "0.0.1",
-  "description": "A restful content repository based on nodejs, mongod and git.",
+  "version": "0.0.2",
+  "description": "Wepesi is an unopinionated and restful content management system.",
   "main": "index.js",
   "dependencies": {
 	"mongodb" : ">= 1.0.2",
