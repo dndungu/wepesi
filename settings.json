@@ -1,6 +1,6 @@
 {
 	"server" : {
-		"host" : "127.0.0.1",
+		"host" : "10.0.2.15",
 		"port" : 8080,
 		"secure" : false,
 		"key" : "ssl/server.key",
@@ -30,7 +30,7 @@
 		"name" : "_w",
 		"age" : 3600
 	},
-	"key" : "59181d4da5f081501c60b62b30f0be09",
+	"key" : "f207934a2482e691c703b44318dbcbf0",
 	"debug" : {
 		"level" : 5,
 		"file": "/var/log/wepesi.log"

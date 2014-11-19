@@ -4,8 +4,10 @@
   "description": "Wepesi is an unopinionated and restful content management system.",
   "main": "index.js",
   "dependencies": {
-	"mongodb" : ">= 1.0.2",
-    "wepesi-repository": ">= 0.0.6"
+		"less" : ">= 1.7.5",
+		"mongodb" : ">= 1.0.2",
+		"node_xslt" : ">= 0.1.9",
+		"uglify-js" : ">= 2.4.15"
   },
   "devDependencies": {},
   "scripts": {
