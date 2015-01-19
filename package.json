@@ -1,6 +1,6 @@
 {
   "name": "wepesi",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Wepesi is an unopinionated and restful content management system.",
   "main": "index.js",
   "dependencies": {
