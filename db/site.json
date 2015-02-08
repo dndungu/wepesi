@@ -1,1 +1,0 @@
-{ "_id" : "193b188f-c5d4-49d6-91dd-de4e63953dde", "alias" : [ "dev.wepesi.com" ], "service" : "wepesi-core", "settings" : { "database" : { "host" : "127.0.0.1", "name" : "refunite", "port" : 27017 }, "locale" : "en_GB.json" } }
